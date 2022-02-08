@@ -1,0 +1,13 @@
+/* CSS HEX 
+--dark-jungle-green: #1c2321ff;
+--pewter-blue: #7d98a1ff;
+--black-coral: #5e6572ff;
+--cadet-blue-crayola: #a9b4c2ff;
+--cultured: #eef1efff;
+*/
+
+body {
+    background-color: #1c2321ff;
+    color: #eef1efff;
+    font-family: Arial, Helvetica, sans-serif;
+}
