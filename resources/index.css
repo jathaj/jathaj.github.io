@@ -12,6 +12,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  color: #eef1efff;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 20px;
+}
+
 a:hover {
   background-color: #eef1efff;
   color: #1c2321ff;
